@@ -83,3 +83,75 @@ DefaultContentLanguage = "en"
   facebookUrl = ""
   twitterUrl = ""
   meetupUrl = ""
+  
+  [Languages.de]
+  title = "EA Site Demo"
+  weight = 2
+  languageCode = "de"
+
+  [Languages.de.general]
+  ## -- GENERAL SITE PARAMETERS -- ##
+  fullTitle = "Effective Altruism Deutsch"
+  strapline = "Wir wollen dich helfen"
+
+  ## -- EA GROUP INFO -- ##
+  [Languages.de.groupinfo]
+  legalOrgName = "Effective Altruism Vancouver"
+  orgLocations = "Vancouver"
+  contactEmail = "larissa@rtcharity.org"
+
+  [Languages.de.navbar]
+  ## -- NAVIGATION BAR HEADERS -- ##
+  # You probably don't need/want to change these,
+  # but if you do you'll also want to change the relevant .md file under the
+  # content folder so the copy corresponds with the header.
+  home = "Heim"
+  faq = "FAQ"
+  effectiveAltruism = "Effective Altruism"
+  aboutEA = "Ueber EA"
+  readingMaterial = "Reading Material"
+  keyTerms = "Key Terms"
+  organizations = "Organizations"
+  contact= "Contact"
+
+  [Languages.de.pages]
+  ## -- Page Headers -- ##
+  contactPageHeader = "Contact us"
+  aboutEAPageHeader = "What is Effective Altruism?"
+
+  [Languages.de.homepage]
+   ## -- HOMEPAGE -- ##
+  topBannerText = "Who are we?"
+  leadText = "We're a group of people who want to help you answer the question: how can I do good better?"
+  firstSectionHeader = "Doing good better"
+  secondSectionHeader = "Building a community"
+  thirdSectionHeader = "Finding better ways to help"
+  bottomBannerText = "A proud member of the effective altruism network"
+
+  [Languages.de.contactform]
+  leadText = "Say hi!"
+  senderName = "Your name (required)"
+  senderEmail = "Your email (required)"
+  emailSubject = "Subject"
+  emailMessage = "Your Message"
+  send = "Send"
+
+  [Languages.de.jumbotron]
+  # These are the buttons right under the header that appears on the main page.
+  # You can use them to link to a mailing list or Facebook page.
+  # Make sure the links start with http:// or https://
+  firstButtonText = "Join our mailing list!"
+  firstButtonLink = "https://www.mailinglist.com"
+  secondButtonText = "Check us out on FB!"
+  secondButtonLink = "https://www.facebook.com"
+  # Remove the # before the text to add the optional Meetup button
+  # meetupButtonText = "Find us on Meetup"
+
+  [Languages.de.urls]
+  ## -- EA GROUP FB/TWITTER/MEETUP URLS -- ##
+  # If your group does not have URLs for these, just add # before the line
+  # to remove the link from the site
+  facebookUrl = ""
+  twitterUrl = ""
+  meetupUrl = ""
+
