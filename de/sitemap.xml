@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://lean-site-demo.github.io/lean-site-template/de/_footer-left/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lean-site-demo.github.io/lean-site-template/_footer-left/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://lean-site-demo.github.io/lean-site-template/de/_footer-left/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://lean-site-demo.github.io/lean-site-template/de/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lean-site-demo.github.io/lean-site-template/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://lean-site-demo.github.io/lean-site-template/de/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://lean-site-demo.github.io/lean-site-template/de/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lean-site-demo.github.io/lean-site-template/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://lean-site-demo.github.io/lean-site-template/de/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://lean-site-demo.github.io/lean-site-template/de/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lean-site-demo.github.io/lean-site-template/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://lean-site-demo.github.io/lean-site-template/de/tags/"
+                />
+  </url>
+  
+</urlset>
